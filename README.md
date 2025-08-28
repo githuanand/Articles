@@ -63,3 +63,12 @@ python manage.py migrate
 
 # Run the server
 python manage.py runserver 
+```
+### 📌 Future Enhancements
+### 🔐 User authentication (Signup/Login system)
+### ✏️ CRUD operations for articles
+### 🔍 Search and filter functionality
+### 🌍 Deployment on Render / Railway / Vercel
+
+### 👨‍💻 Created & Maintained By
+- Anand Mohan Jha

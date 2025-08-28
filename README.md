@@ -17,16 +17,20 @@ It comes with:
 *(All project previews in one place)*  
 
 ### 🔹 Home Page
-![Home Page](./static/screenshots/home.png)
+![Home Page](<img width="1363" height="683" alt="image" src="https://github.com/user-attachments/assets/d418fe6e-32fe-40d3-8120-473a1d2aab21" />
+)
 
-### 🔹 Articles Page
-![Articles Page](./static/screenshots/articles.png)
+### 🔹 About Page
+![About Page](<img width="1365" height="611" alt="image" src="https://github.com/user-attachments/assets/29d2667a-86ba-4349-8c96-dc23ac87a74a" />
+)
 
 ### 🔹 Login Page
-![Login Page](./static/screenshots/login.png)
+![Login Page](<img width="1365" height="682" alt="image" src="https://github.com/user-attachments/assets/302fcae7-1251-4cfc-8e83-886ecfec45c9" />
+)
 
-> 📌 Keep all your screenshots inside `/static/screenshots/` folder for neat organization.  
-
+### 🔹 Contact Page
+![Contact Page](<img width="1365" height="679" alt="image" src="https://github.com/user-attachments/assets/735546fb-d68f-4e5a-b033-c63341793a0c" />
+)
 ---
 
 ## 🚀 Features

@@ -75,4 +75,4 @@ python manage.py runserver
 ### 🌍 Deployment on Render / Railway / Vercel
 
 ### 👨‍💻 Created & Maintained By
-- Anand Mohan Jha
+### Anand Mohan Jha
